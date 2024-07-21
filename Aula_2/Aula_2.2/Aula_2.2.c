@@ -19,7 +19,7 @@
 
 int main(){
 
-    int idade = 0  //Declaração da variável inteira "idade" com atribuição de valor, direto na memória.
+    int idade = 0;  //Declaração da variável inteira "idade" com atribuição de valor, direto na memória.
 
     printf("Valor inicial da idade: %d.\n", idade);//Mostrando o valor da variável;
 
