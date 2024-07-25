@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-
 //scanf
 
 /*
@@ -16,6 +13,8 @@
 */
 
 //EXEMPLOS:
+#include <stdio.h>
+#include <stdlib.h>
 
 int main(){
 
