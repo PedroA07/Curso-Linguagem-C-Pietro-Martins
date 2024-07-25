@@ -11,4 +11,4 @@ int main(){
 
     //Lembre sempre de colocar o ";" no final de cada linha de código, para que não de erro no programa!
 
-}//Esta é a função principal do código, o que faz o programa rodar.
+}//Esta é a função principal do código, o que faz o programa rodar
