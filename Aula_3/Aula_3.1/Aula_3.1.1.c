@@ -4,7 +4,7 @@
             VARIÁVEIS
     - Espaços em memória para armazenar dados;
     - Sintaxe de declaração:
-        <tipo> <nome>;
+        <tipo> <nome>
     - Nomenclatura:
         - Não pode número na 1ª posição;
         - Não pode caracteres especiais;
