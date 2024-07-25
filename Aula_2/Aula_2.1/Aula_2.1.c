@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-
 //printf
 
 /*
@@ -37,6 +34,9 @@
 */
 
 //EXEMPLOS:
+
+#include <stdio.h>
+#include <stdlib.h>
 
 int main(){
 
