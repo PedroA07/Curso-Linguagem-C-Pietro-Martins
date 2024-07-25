@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-
 //Variáveis e atribuição de dados
 
 /*
@@ -41,6 +38,8 @@
 */
 
 //Exemplos
+#include <stdio.h>
+#include <stdlib.h>
 
 #define texto "Entrada e Saída de dados." //Criei uma constante chamada "texto".
 
