@@ -5,4 +5,4 @@ Curso gratuíto do **YouTube** publicado pelo canal do Professor Pietro Martins 
 
 ### Playlist do curso!
 ![Acesse a playliste clicando aqui](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2)
-<a href="https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2" target="_blank">Clique aqui</a> para acessar a playlist completa do curso!
+
